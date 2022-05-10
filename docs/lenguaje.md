@@ -6,25 +6,10 @@ nav_order: 5
 
 # Lenguaje
 
-Nuestra idea es mostrar siempre la Ladder Cup '21 como un torneo profesional dedicado al esfuerzo, la pasión y el desempeño. Es por eso que nunca debe ser asociado con la burla hacia los equipos o jugadores. Mantener el código de conducta es esencial así como también establecer un nuevo estandar en los esports en nuestra región.
+La idea detrás del logo y el calado en imágenes es darle pura potencia al futsal, dandole también un look más artístico, teniendo en cuenta que no hay demasiadas imágenes de futsal bien tomadas.
+<br>
+<br>
+También expresar feminidad através de las imágenes pero con potencia y profesionalidad. Por eso las imágenes deberían siempre estar en movimiento en acción.
 
-
-También es necesario aclarar que la vocalización de la Ladder Cup '21, <strong>debe incluir</strong> la abreviatura '21.
-
-
-<img src="../../assets/images/wrong-a1.png" alt="Ladder Cup '21"/>
+<img src="../../assets/images/1.jpg" alt="Referencia"/>
 <br />
-
-Y de ninguna manera incluir el 2021
-
-
-<img src="../../assets/images/wrong-a2.png" alt="Ladder Cup '21"/>
-<br />
-
-## Aplica para
-<ul>
-<li>Imágenes</li>
-<li>Vocalización de la palabra por parte de casters, locuciones, etc.</li>
-<li>Textos que incluyan la Ladder Cup '21, ejemplo: redes sociales.</li>
-<li>Legales</li>
-</ul>
