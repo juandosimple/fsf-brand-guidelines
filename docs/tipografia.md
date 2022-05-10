@@ -16,7 +16,7 @@ La tipografía que se utiliza es una tipografía fuerte, moderna y versátil. Ti
 <div style="width:13%">
 <img src="../../assets/images/aa-fuente-stretch.png" alt="Referencia tipografía"/>
 </div>
-<div style="width:54%;overflow-wrap: anywhere;padding: 1rem;">
+<div style="width:100%;overflow-wrap: anywhere;padding: 1rem 0;">
 <img src="../../assets/images/fuente-stretch.png" alt="Referencia tipografía"/>
 </div>
 <div style="width:100%">
@@ -37,7 +37,7 @@ La tipografía que se utiliza es una tipografía fuerte, moderna y versátil. Ti
 <div style="width:13%">
 <img src="../../assets/images/aa-fuente-stretch-stretch.png" alt="Referencia tipografía"/>
 </div>
-<div style="width:54%;overflow-wrap: anywhere;padding: 1rem;">
+<div style="width:100%;overflow-wrap: anywhere;padding: 1rem 0;">
 <img src="../../assets/images/fuente-stretch-stretch.png" alt="Referencia tipografía"/>
 </div>
 <div style="width:100%">
