@@ -9,21 +9,21 @@ nav_order: 1
 
 # Logo en gris
 
-<img src="../../../assets/images/logo-black.jpg" width="300" alt="Logo negro"/>
+<img src="../../../assets/images/logo-black.jpg" width="500" alt="Logo negro"/>
 <br /><br />
 Este logo es funcional para cuando se requiere de claridad y no de impacto visual, como por ejemplo legales, marcas de agua, etc.
 
 <br /><br />
 
 # Logo en blanco
-<img src="../../../assets/images/logo-white.jpg" width="300" alt="Logo blanco"/>
+<img src="../../../assets/images/logo-white.jpg" width="500" alt="Logo blanco"/>
 <br /><br />
 Legales, marcas de agua, etc.
 
 <br /><br />
 
-# Logo en dorado
-<img src="../../../assets/images/logo-amarillo.jpg" width="300" alt="Logo dorado"/>
+# Logo en amarillo
+<img src="../../../assets/images/logo-amarillo.jpg" width="500" alt="Logo dorado"/>
 <br /><br />
 Este logo debe usarse cuando se necesite mayor fortaleza de imagen sobre todo cuando va a estar sólo. Este es el logo principal para redes sociales sobre todo. Este logo incluye un gradiente y una textura.
 
