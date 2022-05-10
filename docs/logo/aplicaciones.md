@@ -25,32 +25,30 @@ Legales, marcas de agua, etc.
 # Logo en amarillo
 <img src="../../../assets/images/logo-amarillo.jpg" width="500" alt="Logo dorado"/>
 <br /><br />
-Este logo debe usarse cuando se necesite mayor fortaleza de imagen sobre todo cuando va a estar sólo. Este es el logo principal para redes sociales sobre todo. Este logo incluye un gradiente y una textura.
-
+Este logo debe usarse cuando se necesite mayor fortaleza de imagen sobre todo cuando va a estar sólo. Este es el logo principal para redes sociales sobre todo.
 <br /><br />
 
-[Descargar Pack Illustrator](https://drive.google.com/uc?export=download&id=14MilL3vFBm-PRdRF7VsTLeZU6IFLE_Yx){: .btn .btn-outline }
+[Descargar Pack Illustrator](https://drive.google.com/uc?export=download&id=1adsDj4644mwjSLYODh_RGwgdxDOuubHH){: .btn .btn-outline }
 
-[Descargar Pack EPS](https://drive.google.com/uc?export=download&id=1fO0ZxiY9t3VY5Id2GksxZ6MBNgE0Xhl1){: .btn .btn-outline }
+[Descargar Pack PDF](https://drive.google.com/uc?export=download&id=15W1dM0wpymYGUrgEuJshEc2u4g1pvANu){: .btn .btn-outline }
+
+[Descargar Pack PNG](https://drive.google.com/uc?export=download&id=1n829avznoeZ_6N_k3F13SclgEZs_cbab){: .btn .btn-outline }
 
 
 *Incluye:*
 <ul>
-<li>Imagotipo Blanco</li>
-<li>Imagotipo Negro</li>
-<li>Imagotipo Dorado</li>
+<li>Imagotipo Vertical Blanco</li>
+<li>Imagotipo Vertical Negro</li>
+<li>Imagotipo Vertical Amarillo</li>
+<li>Imagotipo Horizontal Blanco</li>
+<li>Imagotipo Horizontal Negro</li>
+<li>Imagotipo Horizontal Amarillo</li>
 <li>Isotipo Blanco</li>
 <li>Isotipo Negro</li>
-<li>Isotipo Dorado</li>
+<li>Isotipo Amarillo</li>
+<li>Logotipo Blanco</li>
+<li>Logotipo Negro</li>
+<li>Logotipo Amarillo</li>
 </ul>
 <br>
 <br>
-
-
-[Descargar Pack con Textura Photoshop](https://drive.google.com/uc?export=download&id=1Zvm-v3PFcSewvYulT-K8g40J3AkO_NQQ){: .btn .btn-outline }
-
-*Incluye:*
-<ul>
-<li>Imagotipo con textura dorada (PSD)</li>
-<li>Isotipo con textura dorada (PSD)</li>
-</ul>
