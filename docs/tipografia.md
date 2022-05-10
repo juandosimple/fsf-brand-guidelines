@@ -14,7 +14,7 @@ La tipografía que se utiliza es una tipografía fuerte, moderna y versátil. Ti
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center">
 <div style="width:13%">
-<h4 style="font-size: 3rem !important;font-weight:900">AA</h4>
+<h4 style="font-size: 3rem !important;font-weight:900">Aa</h4>
 </div>
 <div style="width:54%;overflow-wrap: anywhere;padding: 1rem;">
 <img src="../../assets/images/fuente-stretch.png" alt="Referencia tipografía"/>
