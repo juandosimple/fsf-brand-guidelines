@@ -23,7 +23,28 @@ La tipografía que se utiliza es una tipografía fuerte, moderna y versátil. Ti
 <ul>
 <li><strong>Fuente</strong>: Stretch Pro Regular</li>
 <li><strong>Peso</strong>: Regular</li>
-<li><strong>Estilo</strong>: Normal o estirada</li>
+<li><strong>Estilo</strong>: Normal</li>
+</ul>
+</div>
+</div>
+
+[Descargar fuente](https://drive.google.com/uc?export=download&id=1soq7QRpwMWOqOhfU1zDRL2LxRi9IwfS2){: .btn .btn-outline }
+
+
+<br><br>
+
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center">
+<div style="width:13%">
+<img src="../../assets/images/aa-fuente-stretch-stretch.png" alt="Referencia tipografía"/>
+</div>
+<div style="width:54%;overflow-wrap: anywhere;padding: 1rem;">
+<img src="../../assets/images/fuente-stretch-stretch.png" alt="Referencia tipografía"/>
+</div>
+<div style="width:100%">
+<ul>
+<li><strong>Fuente</strong>: Stretch Pro Regular</li>
+<li><strong>Peso</strong>: Regular</li>
+<li><strong>Estilo</strong>: Estirada</li>
 </ul>
 </div>
 </div>
