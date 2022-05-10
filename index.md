@@ -8,11 +8,11 @@ permalink: /
 
 <img src="assets/images/header.jpg" alt="Ladder Cup '21"/>
 
-Intentamos que nuestra marca se diferencie de la escena actual de esports para aportar algo distinto a la industria. 
+Guía de marca de FS Futsal Femenino.
 
-Dentro de la guía encontrará normas, guías y referencias que ayudarán a tener una visión más clara de nuestra marca. 
+Aquí hay colores, logo, recursos y demás.   
 
 
 *Muchas Gracias*
 
-*1Block esports*
+*juando*
