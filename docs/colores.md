@@ -32,7 +32,7 @@ Dentro de los colores el logo es versátil aunque hay que evitar colores estride
 </ul>
 </div>
 <div style="width:33%;display:flex;flex-direction:column;align-items:center;justify-content:center">
-<div style="width:70%;height:70px;background-color:#3e3e3e"></div><br>
+<div style="width:70%;height:70px;background-color:#ffd72f"></div><br>
 
 <ul style="margin:0;padding:0;list-style:none;">
 <li><strong>HEX</strong>: #ffd72f</li>
