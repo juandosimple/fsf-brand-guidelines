@@ -7,7 +7,7 @@ nav_order: 1
 
 # Aplicaciones
 
-# Logo en negro
+# Logo en gris
 
 <img src="../../../assets/images/logo-black.jpg" width="300" alt="Logo negro"/>
 <br /><br />
