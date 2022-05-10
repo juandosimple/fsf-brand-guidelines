@@ -14,14 +14,14 @@ La tipografía que se utiliza es una tipografía fuerte, moderna y versátil. Ti
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center">
 <div style="width:13%">
-<h4 style="font-size: 3rem !important;font-weight:900">Aa</h4>
+<img src="../../assets/images/aa-fuente-stretch.png" alt="Referencia tipografía"/>
 </div>
 <div style="width:54%;overflow-wrap: anywhere;padding: 1rem;">
 <img src="../../assets/images/fuente-stretch.png" alt="Referencia tipografía"/>
 </div>
-<div style="width:33%">
+<div style="width:100%">
 <ul>
-<li><strong>Fuente</strong>: Morganite</li>
+<li><strong>Fuente</strong>: Stretch Pro Regular</li>
 <li><strong>Peso</strong>: Regular</li>
 <li><strong>Estilo</strong>: Normal o estirada</li>
 </ul>
